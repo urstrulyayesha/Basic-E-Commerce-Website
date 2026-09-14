@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Shop
 
 A full-stack e-commerce application built with React, Express, MongoDB, and JWT authentication.
@@ -94,3 +95,6 @@ Add screenshots here after running the app locally.
 
 ## Author
 Your Name
+=======
+# Basic-E-Commerce-Website
+>>>>>>> 2a4f2be36855987a02530f6308be71d99868e59b
